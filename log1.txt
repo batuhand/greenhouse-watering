@@ -1,0 +1,29 @@
+﻿Kullanıcı adı :  deneme
+2019/01/06   01:43 -----> Giris yapıldı
+2019/01/06   01:43 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:43 -----> Giris yapıldı
+2019/01/06   01:43 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:43 -----> Giris yapıldı
+2019/01/06   01:43 -----> Otomatige alindi   degerler : 5-100
+2019/01/06   01:43 -----> Sera sulanıyor
+2019/01/06   01:43 -----> Sera sulanıyor
+2019/01/06   01:43 -----> Sera sulanıyor
+2019/01/06   01:43 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:46 -----> Giris yapıldı
+2019/01/06   01:46 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:47 -----> Giris yapıldı
+2019/01/06   01:47 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:49 -----> Giris yapıldı
+2019/01/06   01:49 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/06   01:56 -----> Giris yapıldı
+2019/01/06   01:56 -----> Cikis yapildi
+Kullanıcı adı :  deneme
+2019/01/07   00:07 -----> Giris yapıldı
+2019/01/07   00:08 -----> Cikis yapildi
+2019/01/07   00:10 -----> Cikis yapildi
